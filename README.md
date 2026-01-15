@@ -14,13 +14,13 @@ CoinsExtra is a unified digital wallet that consolidates cash, credit, investmen
 
 >>>> Lungs-Bank-CoinsExtra/MVP/apps/web/index.html
 
->> Lungs-Bank-CoinsExtra/MVP/api
+>>> Lungs-Bank-CoinsExtra/MVP/apps/api
 
->>> Lungs-Bank-CoinsExtra/MVP/api/src
+>>>> Lungs-Bank-CoinsExtra/MVP/apps/api/src
 
->>>> Lungs-Bank-CoinsExtra/MVP/api/src/index.ts
+>>>>> Lungs-Bank-CoinsExtra/MVP/apps/api/src/index.ts
 
->>> Lungs-Bank-CoinsExtra/MVP/api/wrangler.toml
+>>>> Lungs-Bank-CoinsExtra/MVP/apps/api/wrangler.toml
 
 >> Lungs-Bank-CoinsExtra/MVP/packages
 
