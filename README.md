@@ -65,7 +65,11 @@ Lungs-Bank-CoinsExtra/MVP/README.md
 
 ## Roadmap
 
-> Phase 1: Data & Auth First
+> Phase 0: Conceptualize with a html demo ✅
+
+>> Live at bank.coinsextra.workers.dev
+
+> Phase 1: Data & Auth First ✅
 
 >> Step 1: Implement your database in Cloudflare D1
 
