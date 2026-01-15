@@ -1,15 +1,15 @@
 # Source of truth
-**Roadmap**
-## Include 
 
-> Users
+## Includes defined structure with tables or "rules" for the following areas
 
-> Accounts
+> Users ✅
 
-> Transactions
+> Accounts ✅
 
-> Documents
+> Transactions ✅
 
-> TechCoins
+> Documents ✅
 
->MarketData
+> TechCoins ✅
+
+> MarketData ✅
